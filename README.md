@@ -66,7 +66,7 @@
             <li>Kolačima i desertima (slatka pavlaka)</li>
         </ul>
 
-        <img src="https://meggle.ba/wp-content/uploads/2022/05/Pavlaka_180g_web.jpg" alt="Meggle pavlaka slika">
+        <img src="meggle_pavlaka.jpg" alt="Meggle pavlaka slika">
 
         <p><em>Napomena: Informacije su prikupljene sa zvaničnih izvora i pakovanja proizvoda.</em></p>
     </div>
